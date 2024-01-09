@@ -1,6 +1,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+html, body {
+  touch-action: manipulation;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
